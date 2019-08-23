@@ -24,6 +24,7 @@ The aim for this analysis is to gain perspective on,how much increment in terror
 ![alt txt](https://github.com/saksham1998/Global_Terrorism_Analysis/blob/master/images/attaks_year.png)
 
 **Countries with Most Terror Attacks**
+
 ![alt txt](https://github.com/saksham1998/Global_Terrorism_Analysis/blob/master/images/most_country.png)
 
 **Comparing Regions from 1970-2018**
